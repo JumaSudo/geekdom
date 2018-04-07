@@ -9,6 +9,7 @@ import java.io.InputStreamReader;
 
 public class Web
 {
+    //TEST
     HttpClient client = new DefaultHttpClient();
     HttpGet request = new HttpGet("http://www.vogella.com");
     try
